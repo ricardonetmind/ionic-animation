@@ -38,12 +38,12 @@ import { trigger,state,style,transition,animate,keyframes,sequence } from '@angu
  	}
 
  	items: any[] = [
- 	{ name: 'Element 1' },
- 	{ name: 'Element 2' }
- 	{ name: 'Element 3' }
- 	{ name: 'Element 4' }
- 	{ name: 'Element 5' }
- 	{ name: 'Element 6' }
+	 	{ name: 'Element 1' },
+	 	{ name: 'Element 2' },
+	 	{ name: 'Element 3' },
+	 	{ name: 'Element 4' },
+	 	{ name: 'Element 5' },
+	 	{ name: 'Element 6' }
  	];
 
  	push() {
